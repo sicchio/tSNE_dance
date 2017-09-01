@@ -10,7 +10,7 @@ https://github.com/genekogan/image-tSNE
 <br>
 
 Dependencies (Pip Install)<br>
-keras<br>
+keras(v1)<br>
 numpy<br>
 matplotlib<br>
 PIL
